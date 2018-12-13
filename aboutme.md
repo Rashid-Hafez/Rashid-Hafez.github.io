@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-
+Currently a computer scientist studying in my final year at Heriot Watt University, I'm the type of programmer that needs to visually see his output, whether it be a small mechanic or a large impact,
 
 ### my skills
 
