@@ -1,42 +1,12 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: Implementing Systematic Proceedures for Very Large Matrix Operations on the GPU Using CUDA
+image: /img/CUDA.png
+tags: [Dissertation, CUDA, GPU, Parallel, NVIDIA]
 ---
 
-To be, or not to be--that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep--
-No more--and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep--
-To sleep--perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. -- Soft you now,
-The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+It is well known that the device is used because of its parallel computational power and speed, it is a usefull device to reduce the workload on the CPU for many stages of the graphics pipeline, such as rasterization. GPU's are often used nowadays for purposes other than for purely rendering applications, this is known as General Purpose Computing, and these devices are often refered to as GPGPUs (general-purpose GPU). However, there exists such one large limitation with using such a powerful device, that is the limitation on memory storage available on the GPU. 
+
+My dissertation aims to tackle the issue of using the GPU to operate on data larger than the available memory on the GPU. This final year project involves many hurdles to tackle such as, familiarising myself with NVIDIA's architecture and general purpose computing language for the GPU (CUDA), and critically analysing past research papers similar to my topic, and implementing an efficient systematic method to dynamically store data larger than the GPUs memory onto the GPU.
+
+You can view my full project [here]({{ site.url }}/img/Report.pdf)
