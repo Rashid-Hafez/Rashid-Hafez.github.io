@@ -1,13 +1,5 @@
 # My website
 
-**Rashid Portfolio** 
-
-<p align="center">
-  <a href="https://www.paypal.me/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-  </a>
-</p>
-
 ### Page types
 
 - **post** - To write a blog post, add a markdown or HTML file in the `_posts` folder. As long as you give it YAML front matter (the two lines of three dashes), it will automatically be rendered like a blog post. Look at the existing blog post files to see examples of how to use YAML parameters in blog posts.
