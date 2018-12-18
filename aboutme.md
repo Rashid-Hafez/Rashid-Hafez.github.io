@@ -21,4 +21,4 @@ Currently a computer scientist studying in my final year at Heriot Watt Universi
 - Cuda
 - SSL
 
-My intro for [my youtube channel]()(https://www.youtube.com/watch?v=ocJmsHTfyrA)
+My intro for [my youtube channel](https://www.youtube.com/watch?v=ocJmsHTfyrA)
