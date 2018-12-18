@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-img: /img/pPic.png
+image: /img/pPic.png
 ---
 I made this website because I recognise the importance of demonstrating my taste in, I created this portfolio to share my hobbies and projects with others.
 
