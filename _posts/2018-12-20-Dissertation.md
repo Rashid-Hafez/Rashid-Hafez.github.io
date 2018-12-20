@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Implementing Systematic Proceedures for Very Large Matrix Operations on the GPU Using CUDA
+title: Dissertation
 image: /img/CUDA.png
 tags: [Dissertation, CUDA, GPU, Parallel, NVIDIA]
 ---
+The aim of this dissertation is to implement a systematic proceedure for Very Large Matrix Operations on the GPU Using CUDA
 
 It is well known that the device is used because of its parallel computational power and speed, it is a usefull device to reduce the workload on the CPU for many stages of the graphics pipeline, such as rasterization. GPU's are often used nowadays for purposes other than for purely rendering applications, this is known as General Purpose Computing, and these devices are often refered to as GPGPUs (general-purpose GPU). However, there exists such one large limitation with using such a powerful device, that is the limitation on memory storage available on the GPU. 
 
