@@ -1,0 +1,8 @@
+---
+layout: post
+title: Game Engine
+image: /img/CUDA.png
+tags: [OpenGL, Game Engine, GPU]
+---
+This project was intended to create a basic and core game engine in OpenGL with animation, lighting, and an object loader.
+This project taught me many aspects of graphics APIs, the graphics pipline and the structure of game engines.
