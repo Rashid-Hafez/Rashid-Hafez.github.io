@@ -22,4 +22,5 @@ I believe I have a good taste in design, when it comes to looks and what clicks 
 - SSL
 
 My intro for [my youtube channel](https://www.youtube.com/watch?v=ocJmsHTfyrA)
-Graphics Design Society: https://www.hwunion.com/organisation/6297/
+
+[Graphics Design Society](https://www.hwunion.com/organisation/6297/)
