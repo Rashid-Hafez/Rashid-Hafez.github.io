@@ -4,7 +4,7 @@ title: Game Engine
 image: /img/Engine.png
 tags: [OpenGL, Game Engine, GPU]
 ---
-You can find the source code here: https://github.com/Rashid-Hafez/OpenGL-Engine
+You can find the full source code [here](https://github.com/Rashid-Hafez/OpenGL-Engine)
 
 This project was intended to create a basic and core game engine in OpenGL with animation, lighting, basic camera functionality and an object loader.
 I have learned many aspects of graphics APIs, the graphics pipline and the structure of game engines.
