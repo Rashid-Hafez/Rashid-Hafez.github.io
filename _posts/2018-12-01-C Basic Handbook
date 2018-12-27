@@ -1,2 +1,25 @@
+---
+layout: pppppostpppp
+title: C Shortcuts & Tips
+image: /img/pPic.png
+tags: [C, Guide, Tips]
+---
+Sections:
+  - Basics
+  - Uncommon Code
+  - POSIX
+  
+# C Basics:
 
-C shortcuts and tips for myself to refrence to
+Matrix:
+  2 ways to define matrix in C:
+  1 - 
+  
+# C uncommon:
+  
+  Swap two integer variables x and y:
+  
+  The basic way:
+  
+  Arithmetic way:
+  
