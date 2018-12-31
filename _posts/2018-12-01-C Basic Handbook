@@ -38,6 +38,9 @@ In the C language, all
   }
   ```
   
+  **Maths**
+  Ceil and Floor, included in <math.h>, return a digit rounded to the highest or lower number, e.g. 5.5 will return 6 for ceil and 5.5 will return 5 for floor.
+  
 # C uncommon:
   
   **Swap two integer variables x and y:**
@@ -51,7 +54,7 @@ In the C language, all
   x = y;
   y = t;
   ```
-  Arithmetic way:
+  Arithmetic/Logic way XOR:
   
   
   **Matrix Stored As 1D Array:**
