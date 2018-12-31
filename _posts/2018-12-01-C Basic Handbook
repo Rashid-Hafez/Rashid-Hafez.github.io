@@ -6,12 +6,18 @@ tags: [C, Guide, Tips]
 ---
 Sections:
   - Basics
+    - Matrix and Arrays
+    - Maths
   - Uncommon Code
   - POSIX
   
 # C Basics:
 
-Matrix:
+**Defined/Declared**
+
+In the C language, all 
+
+**Matrix:**
   2 ways to define matrix in C:
   1. Malloc
   2. Uniform definition
@@ -22,11 +28,36 @@ Matrix:
   
   ```
   
+  The second way (dynamic):
+  ```C
+  int Row = 2; int Col = 2;
+  int size = Row * Col;
+  int ** mat4 = (int**) malloc (Row * sizeof(int*))
+  for (int i = 0; i<Row; i++){
+  mat4[i] = (int*)malloc(Col * sizeof (int));
+  }
+  ```
+  
 # C uncommon:
   
-  Swap two integer variables x and y:
+  **Swap two integer variables x and y:**
   
   The basic way:
-  
+  ```C
+  int t = 0; //temp var
+  int x=2;
+  int y=4;
+  t = x;
+  x = y;
+  y = t;
+  ```
   Arithmetic way:
   
+  
+  **Matrix Stored As 1D Array:**
+  This is a more uncommon method of allocating and using a matrix, its is proven to be more efficient than using the 
+  ```C
+  int row = 2, col = 2;
+  int size = row * col;
+  int* mat4 = (int*)malloc(size * sizeof(int));
+  ```
